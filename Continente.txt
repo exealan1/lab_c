@@ -1,0 +1,4 @@
+America-01
+Europa-02
+Asia-12
+Oceania-23
